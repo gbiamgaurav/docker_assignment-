@@ -1,5 +1,5 @@
 
-# Docker Assignments :-
+# Docker Assignments
 
 ## Assignment 1 
 
@@ -77,3 +77,14 @@ docker run -init
 ```
 ![](Images/assignment_1/Picture15.jpg)
 
+
+
+## Assignment 2 
+
+![](Images/assignment_2/Picture1.jpg)
+
+
+![](Images/assignment_2/Picture2.jpg)
+
+
+![](Images/assignment_2/Picture3.jpg)
