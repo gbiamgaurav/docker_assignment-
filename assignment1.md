@@ -11,7 +11,6 @@ docker pull hello-world
 ```
 docker run hello-world
 ```
-
 ![](Images/assignment_1/Picture2.jpg)
 
 ```
